@@ -5,8 +5,7 @@ import Pricing from "./Pricing";
 import Education from "./Education";
 import Stats from "./Stats";
 import OpenAccount from "../OpenAccount";
-import Nav from "../Nav";
-import Footer from "../Footer";
+
 
 function HomePage() {
   return (

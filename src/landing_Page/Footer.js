@@ -118,7 +118,7 @@ function Footer() {
             <br></br>
           </div>
         </div>
-        <div className=" mt-5 text-small text-muted ">
+        <div className=" mt-5 text-muted" >
           <p>
             Zerodha Broking Ltd.: Member of NSE, BSE​ &​ MCX – SEBI Registration
             no.: INZ000031633 CDSL/NSDL: Depository services through Zerodha
